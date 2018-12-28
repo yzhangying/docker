@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/kubedns-amd64:1.7
+FROM gcr.io/google_containers/kube-proxy-amd64:v1.4.1
 
