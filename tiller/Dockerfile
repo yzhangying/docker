@@ -1,2 +1,2 @@
-FROM gcr.io/kubernetes-helm/tiller:v2.12.1
+FROM gcr.io/google_containers/kube-discovery-amd64:1.0
 
