@@ -1,2 +1,2 @@
-FROM gcr.io/kubernetes-helm/tiller:v2.12.1
+FROM k8s.gcr.io/coredns:1.2.6
 
