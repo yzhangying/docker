@@ -1,2 +1,2 @@
-FROM gcr.io/kubernetes-helm/tiller:v2.12.1
+FROM k8s.gcr.io/kube-apiserver:v1.13.2
 
