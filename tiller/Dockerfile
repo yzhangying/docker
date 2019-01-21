@@ -1,1 +1,2 @@
-FROM  gcr.io/google_containers/pause-amd64:3.0
+FROM  docker pull quay.io/calico/node:v2.4.1
+
