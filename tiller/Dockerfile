@@ -1,2 +1,2 @@
-FROM  quay.io/calico/cni:v1.10.0
+FROM  quay.io/coreos/flannel:v0.9.1
 
