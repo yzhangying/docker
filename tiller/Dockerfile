@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/heapster-grafana-amd64:v4.4.3
+FROM gcr.io/google_containers/heapster-amd64:v1.5.3
 
