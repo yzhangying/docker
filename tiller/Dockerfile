@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/kubernetes-dashboard-amd64:v1.8.3
+FROM gcr.io/google_containers/heapster-grafana-amd64:v4.4.3
 
