@@ -1,2 +1,2 @@
-FROM  gcr.io/google_containers/heapster-amd64:v1.5.3
+FROM  k8s.gcr.io/metrics-server-amd64:v0.2.1
 
