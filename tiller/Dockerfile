@@ -1,2 +1,2 @@
-FROM  k8s.gcr.io/elasticsearch:v6.3.0
+FROM  quay.io/kubernetes-ingress-controller/nginx-ingress-controller:0.20.0
 
