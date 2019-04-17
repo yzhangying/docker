@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/kubernetes-dashboard-amd64:v1.10.1
+FROM k8s.gcr.io/elasticsearch:v6.3.0
 
