@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/defaultbackend-amd64:1.5
+FROM k8s.gcr.io/kubernetes-dashboard-amd64:v1.10.1
