@@ -1,2 +1,2 @@
-FROM registry.cn-beijing.aliyuncs.com/k8s_images/pause-amd64:3.1
+FROM k8s.gcr.io/coredns:1.2.6
 
