@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/defaultbackend-amd64:1.5
+FROM registry.cn-beijing.aliyuncs.com/k8s_images/pause-amd64:3.1
 
