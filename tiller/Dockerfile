@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/kubernetes-dashboard-amd64:v1.10.1
+FROM registry.cn-beijing.aliyuncs.com/k8s_images/pause-amd64:3.1
