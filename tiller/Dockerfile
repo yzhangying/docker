@@ -1,1 +1,1 @@
-FROM  k8s.gcr.io/coredns:1.6.3
+FROM  selenium/standalone-chrome:3.141.59-dubnium
