@@ -1,1 +1,1 @@
-FROM  coredns/coredns:1.6.7
+FROM  gcr.io/learning-containers-187204/vke-es-proxy
