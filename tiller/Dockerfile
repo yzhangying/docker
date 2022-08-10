@@ -1,1 +1,1 @@
-FROM  gcr.io/learning-containers-187204/vke-es-proxy
+FROM  jumpserver/core:v2.24.2
